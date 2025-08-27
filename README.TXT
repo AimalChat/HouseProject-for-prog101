@@ -22,4 +22,4 @@ Aimal's Lab report on the house project
 
 14a. How do you think the Picture class draws the picture?
 
-14b.
+14b. Ive got no idea
